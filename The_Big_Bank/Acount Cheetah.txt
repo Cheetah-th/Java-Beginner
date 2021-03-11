@@ -1,0 +1,5 @@
+1 Cheetah
+deposit 500 balance 500
+deposit 35000 balance 35500
+withdraw 100 balance 35400
+deposit 200 balance 35600

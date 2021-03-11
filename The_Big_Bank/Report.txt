@@ -1,0 +1,5 @@
+73050693 Tusk Marvel      85.00
+71080192 Freya Grandol    80.00
+72000390 Garen Dreyar    100.00
+Number of Student = 3
+Average = 88.33333333333333

@@ -1,0 +1,4 @@
+2 Sthang
+deposit 500 balance 500
+deposit 4800 balance 5300
+withdraw 200 balance 5100
